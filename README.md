@@ -26,7 +26,7 @@
   **시간대별 승하차 데이터(외부 데이터)**를 결합해 관계를 확인하는 방향으로 확장
 
 ### Deliverables
-- 📄 Final Presentation (PDF): `01_subway_ridership_eda/docs/slides/subway_final_presentation.pdf`
+- 📄 Final Presentation (PDF): `01_subway_ridership_eda/subway_final_presentation.pdf`
 
 
 ---
@@ -43,5 +43,5 @@
   *타깃 정의 방식에 따라 중요한 feature가 어떻게 바뀌는지* 비교/탐색
 
 ### Deliverables
-- 📄 Final Presentation (PDF): `02_child_development_tracking/docs/slides/final_presentation.pdf`
+- 📄 Final Presentation (PDF): `02_child_development_tracking/final_presentation.pdf`
 
